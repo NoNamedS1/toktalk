@@ -29,3 +29,5 @@ https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-github-flow-git-flow-%F0%9
        Backend - 채팅(다훈), 그 외 기능(동근)
 
 1회차 스프린트 목표(~10월 말): 1대1 채팅 구현, 그 외(TBD)
+
+test
